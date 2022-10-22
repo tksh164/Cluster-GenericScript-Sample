@@ -1,6 +1,6 @@
 # Generic Script cluster resource sample for Windows Failover Clustering
 
-## ⚖ License
+## License
 
 Copyright (c) 2014-present Takeshi Katano. All rights reserved. This software is released under the [MIT License](https://github.com/tksh164/Cluster-GenericScript-Sample/blob/master/LICENSE).
 
